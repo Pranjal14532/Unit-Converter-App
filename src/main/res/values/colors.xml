@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="primaryColor">#3F51B5</color>     <!-- Nice blue -->
-    <color name="primaryDark">#303F9F</color>
-    <color name="accentColor">#FF9800</color>      <!-- Orange button -->
-    <color name="backgroundColor">#F5F5F5</color>  <!-- Light gray background -->
-    <color name="cardColor">#FFFFFF</color>        <!-- White cards -->
-</resources>
